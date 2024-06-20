@@ -12,8 +12,8 @@ As avaliações foram performadas por um único sujeito, do sexo masculino, 22 a
 
 Os eixos do smartphones são descritos na imagem a seguir:
 <p align="center">
-    <img src="docs/Smartphone.jpg" label="foto dos smartphones" height="300"><br>
-    <em>Foto dos smartphones</em>
+    <img src="docs/Eixos.webp" label="foto dos eixos" height="300"><br>
+    <em>Eixos dos smartphones</em>
 </p>
 Ambos os telefones foram atados aos tênis, sendo amarrados no meio do pé. O eixo y foi apontado no sentido do meio do corpo para fora, como se pode ver na imagem a seguir.
 <p align="center">
