@@ -11,19 +11,23 @@ Os dados foram coletados utilizando dois telefones Xiaomi MiA2, processador 4x 2
 As avaliações foram performadas por um único sujeito, do sexo masculino, 22 anos, 1,62m de altura e 66kg.
 
 Os eixos do smartphones são descritos na imagem a seguir:
-
-_**"foto dos smartphones"**_
-
+<p align="center">
+    <img src="docs/Smartphone.jpg" label="foto dos smartphones" height="300"><br>
+    <em>Foto dos smartphones</em>
+</p>
 Ambos os telefones foram atados aos tênis, sendo amarrados no meio do pé. O eixo y foi apontado no sentido do meio do corpo para fora, como se pode ver na imagem a seguir.
-
-_**"foto dos smartphones no pé"**_
-
+<p align="center">
+<img src="docs/SmartphonesPeDireitoPeEsquerdo.jpeg" tittle="foto dos smartphones no pé" height="300">
+<img src="docs/SmartphonePeDireito.jpeg" tittle="foto do pé direito" height="300"><br>
+<em>Foto dos smartphones atados aos tênis</em>
+</p>
 O aplicativo utilizado para coletar os dados dos sensores foi o Physics Toolbox Sensor Suite, em sua versão gratuita. O lado negativo da versão gratuita é que não é possível configurar uma taxa de hertz antes de executar o experimento. Os smartphones irão registrar em uma taxa de hertz diferente, mas isso será tratado na etapa de processamento dos dados.
 
 O percurso do experimento foi uma pista de 9 metros em linha reta. Antes de realizar a avaliação, o participante do experimento passou um tempo caminhando com os sensores nos pés para se acostumar com os smartphones nos pés.
-
-_**"foto da pista do experimento"**_
-
+<p align="center">
+<img src="docs/Pista.jpeg" tittle="foto da pista do experimento" height="300"><br>
+<em>Foto da pista do experimento</em>
+</p>
 #### 1.2 Execução das avaliações:
 O participante do experimento foi orientado a realizar 9 vezes o percurso criado para o experimento, sendo que, nas primeiras 3 vezes em ritmo normal, as outras 3 vezes em um ritmo mais acelerado e, por fim, mais 3 vezes em um ritmo mais lento.
 
